@@ -4,6 +4,16 @@
 	</head>
 	<body>
 		<h1>Welcome to my first web page<?h1>
-		<p>This is an HTML page I created in Notepad++.....or was it?</p>
+		<blockquote><p>This is an HTML page I <em>created</em> on September <sup>18</sup> in Notepad++<br />.....or was it?<b>BUM BUM BUMMMMMMM</b></p></blockquote>
+		<p><hr />Here is somthing to show <q>I'm using subscript<sub>4.</sub></q></p>
+		<p><abbr title="Batman day is September 21st"> Batman day? </abbr></p>
+		<p><cite>Batman vs. Superman</cite> showed me that all differences can be overcome if the 2 <i>heroes</i> have mothers that share the same first name.</p>
+		<p><strong>MARTHAAAAAAA</strong></p>
+		<p>Most people aren't aware that Bruce Wayne is an alumni of <dfn> The School Of Hard Knocks</dfn></p>
+		<p><abbr title="Arkansas Coding Academy">ACA</abbr></p>
+		<address><p><a hred="this is really Batman's contact info">BruceWayne@batcave.net</a></p>
+		<p>123 Wayne Manor, Gotham.</p>
+		<p>Bruce Wayne <del>is</del> <ins>is not</ins> Batman.</p>
+		<p>Batman <s>hates</s> kinda likes Superman.</p>
 	</body>
 </html>
